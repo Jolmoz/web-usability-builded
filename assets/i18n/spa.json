@@ -35,6 +35,20 @@
             "content2-subtitle": "",
             "references-title": "Referencias",
             "references-subtitle": "Contenido usado en este sitio"
+        },
+        "USABILITY": {
+            "title": "Usabilidad y Accesibilidad",
+            "content1-title": "¿Qué son?",
+            "content1-subtitle1": "Usabilidad",
+            "content1-text1": "La usabilidad se centra en la interacción y experiencia del usuario con el sistema, buscando simplificar procesos y mejorar la eficacia y satisfacción.",
+            "content1-subtitle2": "Accesibilidad",
+            "content1-text2": "La accesibilidad se enfoca en hacer que los sistemas sean utilizables por personas con diversas discapacidades, asegurando que los productos digitales sean inclusivos y universales.",
+            "content1-subtitle3": "Relación entre Usabilidad y Accesibilidad",
+            "content1-text3": "Ambos conceptos son complementarios. Un sistema accesible es inherentemente usable para una audiencia más amplia, y un sistema usable tiende a ser más accesible. Incluir principios de accesibilidad mejora la usabilidad global del sistema.",
+            "content2-title": "Ejemplos",
+            "content2-subtitle1": "",
+            "references-title": "Referencias",
+            "references-subtitle": "Contenido usado en este sitio"
         }
     }
 }
