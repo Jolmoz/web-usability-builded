@@ -10,7 +10,7 @@
             "references": "Referencias",
             "TOOLTIPS": {
                 "menu": "Abrir/Cerrar menú",
-                "help": "Ayuda",
+                "accesibility": "Accesibilidad",
                 "home": "Regresar a la página principal"
             }
         },
@@ -22,8 +22,8 @@
             "content1-text2": "Desarrollado con Angular 17",
             "content2-title": "Temas a revisar",
             "content2-subtitle": "Listado de secciones con enlaces directos",
-            "references-title": "Referencias",
-            "references-subtitle": "Contenido usado en este sitio"
+            "references-title": "Desarrollado por",
+            "references-subtitle": "Jose Luis Molina Zuluaga"
         },
         "BASICS": {
             "title": "Conceptos Básicos",
