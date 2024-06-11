@@ -1,0 +1,40 @@
+{
+    "COMPONENTS": {
+        "NAVIGATION": {
+            "basics": "Conceptos básicos",
+            "usability": "Usabilidad y accesibilidad",
+            "engineering": "Ingeniería de usabilidad",
+            "life_cicle": "Ciclo de vida de la usabilidad",
+            "evaluation": "Evaluación de usabilidad",
+            "user_centered": "Diseño centrado en el usuario",
+            "references": "Referencias",
+            "TOOLTIPS": {
+                "menu": "Abrir/Cerrar menú",
+                "help": "Ayuda",
+                "home": "Regresar a la página principal"
+            }
+        },
+        "HOME": {
+            "title": "Usabilidad Web",
+            "content1-title": "Bienvenido",
+            "content1-subtitle": "Guía Completa sobre Usabilidad y Diseño Centrado en el Usuario",
+            "content1-text1": "Bienvenido a nuestra guía completa sobre usabilidad y diseño web centrado en el usuario. Aquí encontrarás recursos, artículos y guías detalladas para mejorar la usabilidad de tus proyectos web.",
+            "content1-text2": "Desarrollado con Angular 17",
+            "content2-title": "Temas a revisar",
+            "content2-subtitle": "Listado de secciones con enlaces directos",
+            "references-title": "Referencias",
+            "references-subtitle": "Contenido usado en este sitio"
+        },
+        "BASICS": {
+            "title": "Conceptos Básicos",
+            "content1-title": "Definición de Usabilidad",
+            "content1-subtitle": "Mejora la satisfacción del usuario, reduce la tasa de abandono y aumenta la conversión.",
+            "content1-text1": "La usabilidad se refiere a la facilidad con la que los usuarios pueden aprender a utilizar un sistema y alcanzar sus objetivos de manera efectiva, eficiente y satisfactoria. Es un aspecto crucial en el diseño de interfaces de usuario y sistemas interactivos, ya que una buena usabilidad puede mejorar significativamente la experiencia del usuario y la eficiencia operativa.",
+            "content1-text2": "",
+            "content2-title": "Elementos Clave de la Usabilidad",
+            "content2-subtitle": "",
+            "references-title": "Referencias",
+            "references-subtitle": "Contenido usado en este sitio"
+        }
+    }
+}
